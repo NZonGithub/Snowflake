@@ -1,0 +1,31 @@
+{
+  "name": "snowfall",
+  "version": "1.0.0",
+  "description": "A snowfall simulation",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NZonGithub/Snowflake.git"
+  },
+  "keywords": [
+    "Snow",
+    "Snowflake",
+    "P5JS",
+    "NodeJS",
+    "Javascript"
+  ],
+  "author": "NZonGithub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NZonGithub/Snowflake/issues"
+  },
+  "homepage": "https://github.com/NZonGithub/Snowflake#readme"
+}
